@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(18, 214, 214);
+}
+
+.content{
+ 
+    padding: 4%;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content:center;
+    align-items:center;
+    width: 40%;
+    margin: 15% 0% 0% 30%;
+    
+}
+
+.gtn{
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    
+    padding: 2%;
+    background-color: rgb(226, 43, 43);
+    width: 200px;
+     border-radius:10px;
+}
+
+
+.text{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.enter_num{
+    border: 1px solid;
+    padding: 1%;
+    width: 70%;
+    height: 30px;
+    text-align: center;
+    border-radius:10px;
+    font-weight: 700;
+}
+
+#chances{
+    margin-top:4%;
+}
+
+#values{
+    margin-top:4%;
+}
+
